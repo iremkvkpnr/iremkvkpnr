@@ -12,7 +12,17 @@
 
 ###
 
-<p align="left">A results-oriented computer engineering student with a strong educational background in Computer Engineering. Experienced in full stack development using Java, C#, C++ and TypeScript. Passionate about Machine Learning and Artificial Intelligence.</p>
+<p align="left">Computer Engineering graduate
+with experience in full-stack
+development, AI, and data analysis.
+Contributed to AI-driven
+agricultural research at TÜBİTAK,
+developed software at AVKAR,
+and enhanced data analysis skills at
+ASELSAN. Proficient in Python,
+Java, TypeScript, and ReactJS,
+eager to build scalable software
+and AI solutions.</p>
 
 ###
 
