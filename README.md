@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://iakademi.com/wp-content/uploads/2022/05/full-stack-developer.png"  />
+  <img height="200" src="https://siberci.com/wp-content/uploads/2021/07/full-stack-developer-nedir.jpeg"  />
 </div>
 
 ###
